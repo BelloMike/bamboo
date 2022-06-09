@@ -1,0 +1,27 @@
+.first{
+display: grid;
+grid-template-columns: 100px 100px;
+}
+
+.second{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 100px 100px 200px;  
+}
+
+
+
+
+.div1 {
+    background-color: lightblue;
+
+}
+
+.div2{
+    background-color: lightpink;
+   
+}
+
+.div3{
+    background-color:lightblue
+}
